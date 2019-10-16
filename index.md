@@ -1,7 +1,6 @@
 ## Inicio
 
-	<h3 style="text-align:center;">Vianei- Laberinto interactivo</h3>
-	<div id="info">
+	
 		<h4 style="text-align:center;">Bienvenidos</h5>
 		<p style="text-align:center;" class="flow-text">Vianei es una compañía que se dedica a la elaboración de productos auxiliares para ayudar en la rehabilitación motriz de los brazos.<br>
 
