@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Inicio
 
-You can use the [editor on GitHub](https://github.com/RiquelmerGaxiola/riquelmergaxiola.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+	<h3 style="text-align:center;">Vianei- Laberinto interactivo</h3>
+	<div id="info">
+		<h4 style="text-align:center;">Bienvenidos</h5>
+		<p style="text-align:center;" class="flow-text">Vianei es una compañía que se dedica a la elaboración de productos auxiliares para ayudar en la rehabilitación motriz de los brazos.<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+		</p>
+		<h4 style="text-align:center;">¿Cuál es nuestro objetivo?</h5>
+		<p style="text-align:center;" class="flow-text">
+			Vianei intenta lograr traer un método de rehabilitación motriz alternativo, de menor coste, a personas que sufren de discapacidades motrices.<br>
+		</p>
 
 ### Markdown
 
