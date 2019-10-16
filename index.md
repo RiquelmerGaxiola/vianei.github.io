@@ -7,29 +7,16 @@ Vianei intenta lograr traer un método de rehabilitación motriz alternativo, de
 
 	
 
-### Markdown
+### Compañia
+Informacion de la compania
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Somos una empresa emergente dedicada a la elaboracion de equipamiento medico para la rehabilitacion motriz.
+Buscamos ofrecer un servicio de calidad a nuestros clientes para que tengan una experiencia de rehabilitacion unica y facil de usar
+	Metodologia
+->Se realiza una reunión inicial para acordar los términos del pedido, así como para una demostración de nuestros modelos y realizar tanto la elicitación como la validación los requerimientos de su página web.
+->Capacitación del personal del cliente en la correcta utilización de nuestro producto.
+->Entrega de las unidades solicitadas, y revisión del progreso de la página web. Sesión final de capacitación en el uso de nuestro producto.
+->Entrega de la página web.
 
 ### Jekyll Themes
 
