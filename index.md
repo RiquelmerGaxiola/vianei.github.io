@@ -16,7 +16,7 @@ Información de la companía
 Somos una empresa emergente dedicada a la elaboración de equipamiento médico para la rehabilitación motriz.<br>
 Buscamos ofrecer un servicio de calidad a nuestros clientes para que tengan una experiencia de rehabilitacion única y fácil de usar<br>
 
-   Metodologia<br>
+Metodologia<br>
 ->Se realiza una reunión inicial para acordar los términos del pedido, así como para una demostración de nuestros modelos y realizar tanto la elicitación como la validación de los requerimientos de su página web.<br>
 ->Capacitación del personal del cliente en la correcta utilización de nuestro producto.<br>
 ->Entrega de las unidades solicitadas, y revisión del progreso de la página web. Sesión final de capacitación en el uso de nuestro producto.
