@@ -1,7 +1,7 @@
 ## Inicio
-Bienvenidos
-Vianei es una compañía que se dedica a la elaboración de productos auxiliares para ayudar en la rehabilitación motriz de los brazos.
-	¿Cuál es nuestro objetivo?
+Bienvenidos<br>
+Vianei es una compañía que se dedica a la elaboración de productos auxiliares para ayudar en la rehabilitación motriz de los brazos.<br>
+	¿Cuál es nuestro objetivo?<br>
 Vianei intenta lograr traer un método de rehabilitación motriz alternativo, de menor coste, a personas que sufren de discapacidades motrices.
 
 
