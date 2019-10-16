@@ -15,6 +15,7 @@ Informacion de la compania
 
 Somos una empresa emergente dedicada a la elaboracion de equipamiento medico para la rehabilitacion motriz.<br>
 Buscamos ofrecer un servicio de calidad a nuestros clientes para que tengan una experiencia de rehabilitacion unica y facil de usar<br>
+
 	Metodologia<br>
 ->Se realiza una reunión inicial para acordar los términos del pedido, así como para una demostración de nuestros modelos y realizar tanto la elicitación como la validación los requerimientos de su página web.<br>
 ->Capacitación del personal del cliente en la correcta utilización de nuestro producto.<br>
@@ -35,6 +36,8 @@ Al realizar una serie de movimientos específicos, se fortalecerán las estructu
 	Hemos observado que la principal desventaja de nuestro producto no otorga un feedback suave al usuario lo que causa incomodidad al momento de usar nuestro producto.<br>
 	Por lo tanto estamos en constante mejora para tener una mejor relación con los clientes basados en el ratio de aceptación de nuestro producto.<br>
 
-## Support or Contact
+## ¿Quiénes somos?
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Somos un grupo de asociados del área de Sistemas Computacionales del Tecnológico de Monterrey,<br>
+contamos con la colaboración de Kevin Contreras, Riquelmer Gaxiola & Jaime Aguilar,<br>
+hijo del Dr. Agustín J Aguilar, experto en el área cuya consulta fue invaluable para la realización de nuestro proyecto.<br> 
