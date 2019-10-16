@@ -10,14 +10,14 @@ Vianei intenta lograr traer un método de rehabilitación motriz alternativo, de
 
 	
 
-## Compañia
-Informacion de la compania
+## Compañía
+Información de la companía
 
-Somos una empresa emergente dedicada a la elaboracion de equipamiento medico para la rehabilitacion motriz.<br>
-Buscamos ofrecer un servicio de calidad a nuestros clientes para que tengan una experiencia de rehabilitacion unica y facil de usar<br>
+Somos una empresa emergente dedicada a la elaboración de equipamiento médico para la rehabilitación motriz.<br>
+Buscamos ofrecer un servicio de calidad a nuestros clientes para que tengan una experiencia de rehabilitacion única y fácil de usar<br>
 
    Metodologia<br>
-->Se realiza una reunión inicial para acordar los términos del pedido, así como para una demostración de nuestros modelos y realizar tanto la elicitación como la validación los requerimientos de su página web.<br>
+->Se realiza una reunión inicial para acordar los términos del pedido, así como para una demostración de nuestros modelos y realizar tanto la elicitación como la validación de los requerimientos de su página web.<br>
 ->Capacitación del personal del cliente en la correcta utilización de nuestro producto.<br>
 ->Entrega de las unidades solicitadas, y revisión del progreso de la página web. Sesión final de capacitación en el uso de nuestro producto.
 ->Entrega de la página web.<br>
@@ -30,7 +30,7 @@ Al realizar una serie de movimientos específicos, se fortalecerán las estructu
 
 ¿Cuales son las ventajas de Vianei?<br>
 	Es una alternativa de bajo costo respecto a otros equipos<br>
-	   Ofrece una gran reutilización y ofrece una experiencia divertida para el usuario<br>
+	Ofrece una gran reutilización y ofrece una experiencia divertida para el usuario<br>
 
 ¿Cuales son las desventajas de Vianei?<br>
 	Hemos observado que la principal desventaja de nuestro producto no otorga un feedback suave al usuario lo que causa incomodidad al momento de usar nuestro producto.<br>
@@ -44,7 +44,7 @@ hijo del Dr. Agustín J Aguilar, experto en el área cuya consulta fue invaluabl
 
 ## Contacto
 
-Para mas informacion comuniquese a los siguientes teléfonos<br>
+Para mas información comuníquese a los siguientes teléfonos<br>
 674-xxx-xx-xx.<br>
 674-xxx-xx-xx.<br>
 674-xxx-xx-xx.<br>
