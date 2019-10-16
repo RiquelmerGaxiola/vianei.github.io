@@ -7,7 +7,7 @@ Vianei intenta lograr traer un método de rehabilitación motriz alternativo, de
 
 	
 
-### Compañia
+## Compañia
 Informacion de la compania
 
 Somos una empresa emergente dedicada a la elaboracion de equipamiento medico para la rehabilitacion motriz.
