@@ -41,3 +41,11 @@ Al realizar una serie de movimientos específicos, se fortalecerán las estructu
 Somos un grupo de asociados del área de Sistemas Computacionales del Tecnológico de Monterrey,<br>
 contamos con la colaboración de Kevin Contreras, Riquelmer Gaxiola & Jaime Aguilar,<br>
 hijo del Dr. Agustín J Aguilar, experto en el área cuya consulta fue invaluable para la realización de nuestro proyecto.<br> 
+
+## Contacto
+
+Para mas informacion comuniquese a los siguientes teléfonos<br>
+674-xxx-xx-xx.<br>
+674-xxx-xx-xx.<br>
+674-xxx-xx-xx.<br>
+O visite nuestras oficinas en Calle Benito Juarez #129, colonia Nueva Esperanza. Zapopan, Jalisco. <br>
